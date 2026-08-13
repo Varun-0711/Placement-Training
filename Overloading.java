@@ -16,7 +16,6 @@ class shape{
         System.out.println("Area of triangle: " + (c*a*b));
     }
 }
-
 public class Overloading {
     public static void main(String[] args) {
         shape s = new shape();
